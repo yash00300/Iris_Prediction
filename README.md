@@ -45,7 +45,7 @@ The goal of this project is to build a predictive model that can classify iris f
 
 ## Results 🎯
 
-* The model achieves an accuracy of 98% (replace with your results).
+* The model achieves an accuracy of 98%.
 
 * Predictions can classify the three species of Iris flowers based on their features.
 
