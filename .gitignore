@@ -1,0 +1,25 @@
+# Ignore virtual environment
+venv/
+
+# Ignore all CSV files except specific ones
+*.csv
+
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+*.iynb
+
+# Ignore database files
+*.sqlite
+*.db
+*.sqlite3
+database/
+
+
+# Ignore all Jupyter Notebook files
+*.ipynb
+
+# Ignore the .ipynb folder and all its contents
+.ipynb/
