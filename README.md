@@ -14,7 +14,6 @@ The goal of this project is to build a predictive model that can classify iris f
   - Petal Width (cm)
 - **Target:**
   - Species (Setosa, Versicolor, Virginica)
-- **Number of Records:** 150
 
 ---
 
